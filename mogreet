@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head>
+<!-- Title and Meta
+================================================== -->
+<meta charset="UTF-8">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif]-->
+
+<title>Mogreet | SoSweet! Creative</title>
+<meta name="author" content="Stephen Scaff of SoSweet! Creative">
+<meta name="description" content="Mogreet  is the leader in text message marketing. The site advertises the company&#039;s 3 main service offerings and features unique illustrations, scroll-based content, and css keyframe animations." />
+<meta name="keywords" content="mogreet, text message marketing, sosweet creative, stephen scaff, responsive, bootstrap and foundation" />
+ 
+
+<!-- Facebook Open Graph Meta
+================================================== -->
+<meta property="og:title" content="Mogreet | SoSweet! Creative"/>
+<meta property="og:url" content="http://sosweetcreative.com/mogreet"/>
+<meta property="og:site_name" content="SoSweet! Creative"/>
+<meta property="og:description" content="Mogreet  is the leader in text message marketing. The site advertises the company&#039;s 3 main service offerings and features unique illustrations, scroll-based content, and css keyframe animations." />
+<meta property="og:image" content="images/work-mogreet-introimg.png"/>
+
+<!--Twitter Meta
+================================================== -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@sosweetcreative"/>
+<meta name="twitter:creator" content="@sosweetcreative"/>
+<meta name="twitter:title" content="Mogreet | SoSweet! Creative">
+<meta property="og:description" content="Mogreet  is the leader in text message marketing. The site advertises the company&#039;s 3 main service offerings and features unique illustrations, scroll-based content, and css keyframe animations." />
+<meta name="twitter:image" content="images/work-mogreet-introimg.png"/>
+
+<!-- Mobile
+================================================== -->
+<meta name="viewport" content="width=device-width, initial-scale = 1, maximum-scale=1, user-scalable=no" />				
+
+<!-- Fav and icons
+================================================== -->	
+<link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-precomposed.png">
+
+<!-- Feed
+================================================== -->	
+<link rel="alternate" type="application/rss+xml" title="SoSweet! Creative Feed" href="http://sosweetcreative.com/feed/">
+
+<!-- CSS & Js
+================================================== -->
+<link rel="stylesheet" href="http://sosweetcreative.com/wp-content/themes/sosweet-v2/style.css">
+<link rel="stylesheet" href="http://sosweetcreative.com/wp-content/themes/sosweet-v2/css/fonts.css">
+<link rel="stylesheet" href="http://sosweetcreative.com/wp-content/plugins/contact-form-7/includes/css/styles.css">
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/themes/sosweet-v2/js/jquery.js'></script>
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/themes/sosweet-v2/js/modernizr.js'></script>
+	<link rel="canonical" href="http://sosweetcreative.com/mogreet">
+
+<script>
+//Fade in page all sexy like
+$('body').addClass('kf-fade-in-2');
+setTimeout(function(){
+  $("body").removeClass("kf-fade-in-2");
+  $("*").removeClass("kf-fade-in-3-1");
+},2100);
+</script>
+
+<!-- Google Analytics
+================================================== -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(["_setAccount", "UA-27609831-1"]);
+  _gaq.push(["_setDomainName", "sosweetcreative.com"]);
+  _gaq.push(["_trackPageview"]);
+
+  (function() {
+    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+
+<body id="top" class="page page-id-2018 page-template page-template-page-portfolio-php mogreet foliopage mogreet-2 kf-fade-in-2">
+
+<!-- Mobile Nav Drawer - yes, yes, it could be part of main nav.
+================================================== -->
+<div class="mobilenav mobilenav-right">
+	<ul>
+	   <li><a href="/">Home</a></li>
+	   <li><a href="/#sect-about">About</a></li>
+	   <li><a href="/#sect-portfolio">Portfolio</a></li>
+	   <li><a class="js-contact-us" href="#">Contact</a></li>
+	   <li><a href="/blog">Blog</a></li>
+	</ul>
+</div>
+
+<!-- Site Overlay: Click anywhere to close-->
+<div class="site-overlay"></div>
+
+<!-- Slides entire page over for mobile nav drawer -->
+<div id="content-slide">
+
+<!-- Mobile Nav Button -->      
+<div class="menu-btn">
+<!--<span aria-hidden="true" class="icon-menu"></span>-->
+ <p>Menu</p>
+ <span class="opened"></span>
+</div>
+
+<!-- Header
+================================================== -->
+<header class="mast">
+  <div class="row g-full">
+<!-- Logo -->
+  	<h1 id="logo"><a href="/#top">SoSweet! Creative</a></h1>
+
+<!-- Main Nav-->
+    <nav role="navigation">
+  	  <ul>
+<li><a href="http://sosweetcreative.com/#top">Home</a></li>
+<li><a href="http://sosweetcreative.com/#sect-about">About</a></li>
+<li><a href="http://sosweetcreative.com/#sect-portfolio">Portfolio</a></li>
+<li class="js-contact-us"><a href="#">Contact</a></li>
+<li><a href="http://sosweetcreative.com/blog">Blog</a></li>
+</ul>
+</nav>
+  </div>
+</header>
+
+	
+	<!-- Hero
+================================================== -->
+<section class="sect-hero v-center">				
+  <div>
+    <div class="fixed kf-fade-in-3-1">
+	  <div class="row g-full center-all">
+  		<h1>Mogreet Inc</h1>
+   		<h4 class="color-delta">Responsive Web Design</h4>
+  	</div>
+  	</div>
+  </div>
+</section> 
+
+<!-- Main
+================================================== -->
+<main role="main" class="">
+
+<section class="folio-intro center-all kf-fade-in-up">
+ 	<div class="row g-full center-all">
+		<img src="images/work-mogreet-introimg.png" alt="Mogreet homepage by SoSweet! Creative"/>
+  </div>
+	
+	<div class="bg-alpha sect-content">
+	<div class="row">
+		<div class="g-10 cols center-all">
+			<h2>Snazzy Responsive CV Site &#038; Blog with Infographic Elements</h2>
+			<p class="invertedp">Mogreet is the leader in video text message marketing. We designed their Corp Site &#038; Small Business page, which are responsive and built atop a customized framework jimmy jammin&#8217; Bootstrap and Foundation. 
+						High Fives include features on the <a  href="http://www.awwwards.com/best-websites/mogreets-main-site" title="SoSweet!'s Mogreet on the Awwwards">Awwwards</a>, the <a  href="www.cssawards.net/mogreet-main-site">CSS Awards</a>, <a  href="creattica.com/css/mogreet-s-main-site/87106">Creattica</a> the <a  href="http://www.cssdesignawards.com/search.php?search_term=sosweet!+creative">CSS Design Awards</a>, and more. </p>
+				
+			
+			<a class="btn btn-beta btn-large" href="http://mogreet.com">Launch Project</a>
+		</div>
+	</div>
+	</div>
+</section>
+
+<section class="folio-mogreet-home sect-content">
+	<div class="row">
+		<div class="g-10 cols center-all">
+		<h2>Main Landing Page</h2>
+		<p>Mogreet&#8217;s main site served as a central point of access for their Corporate, Small Business and Developer Sites. Bright colors and illustrations create a playful look and feel, further enhanced with planes flying across the hero via by css keyframe animations.</p>
+			<img class="box" src="images/work-mogreet-site-home.jpg" alt="Mogreet's Website by SoSweet! Creative"/>
+		</div>
+	</div>
+</section>
+	
+<section class="folio-mogreet-graphics sect-content sect-dark bg-beta">
+	<div class="row">
+		<div class="g-6 cols">
+			<h3>Developer Portal Infogaphics</h3>
+			<p>We also created a series of sell infographic elements for Mogreet&#8217;s Developer Portal, to visually communicate the the idea&#8217;s behind each service offering.</p>
+		</div>
+		<div class="g-6 cols">
+			<img class="" src="images/work-mogreet-infog1.png" alt="Mogreet custom UI Graphics by SoSweet!"/>		
+		</div>
+	</div>
+</section>
+
+<section class="folio-mogreet-about sect-folio">	
+	<div class="row">
+		<div class="g-10 cols center-all">
+		<h2>About Page</h2>
+		<p>The About page was a section-based scrolling deal, combining elements that historically were broken up across several pages. This approach allows users to uncover Mogreet&#8217;s meat &#038; potatoes in a central location, while extending site engagement.</p>
+			<img src="images/work-mogreet-site-about.jpg" alt="Mogreet's About Us page by SoSweet"/>
+		</div>
+	</div>
+</section>
+
+<section class="sect-ender bg-white">
+  <div class="row">
+    <div class="g-10 cols center-all">
+       <p class="bigger">Go on now and give Mogreet&#8217;s site a looksie</p>
+         <a class="btn btn-large" href="http://mogreet.com">Launch Project</a>
+    </div>
+  </div>
+</section>
+
+<!--Folio Nav
+================================================== -->
+<div class="folio-nav">
+  <span id="older-nav"><a href="/ligayascaff" rel="prev"> Last <span class="icon-arrow-left"></span></a></a></span>
+  <span class="folio-nav-sep"> // </span>
+  <span id="newer-nav"><a href="/matchproduct" rel="next"><span class="icon-arrow-right"></span> Next </a></a></span>
+</div>
+
+</main>
+
+
+<!-- Footer
+================================================== -->	
+<footer class="sect-content">
+  <div class="row">
+  	<div class="g-6 cols">	
+  		<h4>SoSweet! Creative</h4>
+   		<p class="f-block">
+   		  hello@SoSweetCreative.com <br/>
+   		 	Tel: 412.506.7311 <br/><br/>
+  		  <a class="js-contact-us secondary" href="javascript:void(0)" title="Contact SoSweet!">Hit Us Up <span aria-hidden="true" class="icon-arrow-right"></span></a>
+  		</p>	
+   		
+   		<p class="f-block">
+   		 	65 Schley Ave <br/>
+   		 	Pittsburgh, PA 15205
+   		</p>
+    </div>
+   	
+   	<div class="g-5 cols">
+   		<h4>Social Stuffs</h4>
+      <p>Yep, yep, yep. We do that social thing</p>
+        <ul class="social-list">
+	 				<li><a href="http://twitter.com/sosweetcreative"><span aria-hidden="true" class="icon-twitter"></span></a></li>
+	 				<li><a href="http://facebook.com/sosweetcreative"><span aria-hidden="true" class="icon-facebook"></span></a></li>
+          <li><a href="http://dribbble.com/sosweetcreative"><span aria-hidden="true" class="icon-dribbble"></span></a></li>
+	 				<li><a href="http://pinterest.com/sosweetcreative"><span aria-hidden="true" class="icon-pinterest"></span></a></li>
+	 				<li><a href="http://instagram.com/sosweetcreative"><span aria-hidden="true" class="icon-instagram"></span></a></li>
+	 				<!--<li><a href="https://plus.google.com/118092213163574488102"><span aria-hidden="true" class="icon-google-plus-2"></span></                                                       a></li>-->
+	 				<li><a href="mailto:hello@sosweetcreative.com"><span aria-hidden="true" class="icon-mail-2"></span></a></li>
+   		 	</ul>
+   	</div>	
+  </div>
+  	
+  <section id="copyright-section">    
+  	<div class="row g-full center-all">
+      <hr/>		
+  	  <p>
+    	 Built with Love in Pittsburgh<br/>
+    	   	© 2014 SoSweet!</p>
+  		</p>
+    </div>
+  	</div>
+  </section>
+</footer>
+  
+
+<!-- Scroll To Top
+================================================== -->	
+<a class="scroll_to_top" href="#"><span aria-hidden="true" class="icon-arrow-up-2"><br/>TOP</span></a>
+
+<!-- Contact Slide
+================================================== -->
+<div id="js-slide-contact">
+  <section class="sect-contact sect-banner sect-dark">
+    <div class="row g-full center-all">
+	    <h2>Let's Make Contact</h2>
+	    <p class="big">Ready to start your monocle dropping project?</p>
+
+      <ul class="social-list">
+        <li><a href="http://twitter.com/sosweetcreative"><span aria-hidden="true" class="icon-twitter"></span></a></li>
+        <li><a href="http://facebook.com/sosweetcreative"><span aria-hidden="true" class="icon-facebook"></span></a></li>
+        <li><a href="http://dribbble.com/sosweetcreative"><span aria-hidden="true" class="icon-dribbble"></span></a></li>
+        <li><a href="http://pinterest.com/sosweetcreative"><span aria-hidden="true" class="icon-pinterest"></span></a></li>
+        <li><a href="http://instagram.com/sosweetcreative"><span aria-hidden="true" class="icon-instagram"></span></a></li>
+      </ul>
+    </div>
+  </section>
+
+<a href="#" class="btn btn-alpha js-back" id="totop">Back</a>
+  
+  <!-- contact-info-->	 
+  <section class="sect-contact-info sect-intro">	    
+<div class="row">    
+<div class="g-10 cols center-all">
+	    <h3 class="bigger">Build something awesome with us!</h3>
+	    <p><span class="pink">SoSweet! Creative</span> is located at <span class="color-delta">65 Schley Ave.</span> in sunny <a class="blue" href="http://youtu.be/b9gypvoDNrM" target="_blank">Pittsburgh, PA 15205</a>. Our phone number is <span class="color-delta">412-506-7311</span> and you can reach us with the form below or by emailing directly to <a href="">hello@sosweetcreative.com</a>
+	    </p>
+	  </div>
+</div>
+<br/>
+<!-- form-section -->	
+<div id="contact-form" class="white-bg">
+    <div class="wpcf7" id="wpcf7-f1720-t1-o1"><form action="/mogreet#wpcf7-f1720-t1-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1720" />
+<input type="hidden" name="_wpcf7_version" value="3.5.2" />
+<input type="hidden" name="_wpcf7_locale" value="" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1720-t1-o1" />
+<input type="hidden" name="_wpnonce" value="9ad2476dc0" />
+</div>
+<div class="row">
+<div class="g-10 cols centered">
+<div class="row">
+<div class="g-6 cols">
+<p><span class="wpcf7-form-control-wrap the-name"><input type="text" name="the-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required contacttext" aria-required="true" placeholder="Name" /></span></p>
+<p><span class="wpcf7-form-control-wrap the-companyname"><input type="text" name="the-companyname" value="" size="40" class="wpcf7-form-control wpcf7-text contacttext" placeholder="Company Name" /></span></p>
+</div>
+<div class="g-6 cols">
+<p><span class="wpcf7-form-control-wrap the-email"><input type="email" name="the-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email contacttext" aria-required="true" placeholder="Email" /></span></p>
+<p><span class="wpcf7-form-control-wrap the-phone"><input type="text" name="the-phone" value="" size="40" class="wpcf7-form-control wpcf7-text contacttext" placeholder="Phone" /></span></p>
+</div>
+</div>
+<div class="row g-full">
+<p><span class="wpcf7-form-control-wrap the-message"><textarea name="the-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required contacttextarea" aria-required="true" placeholder="What&#039;s Shakin?"></textarea></span></p>
+<p><span class="wpcf7-form-control-wrap the-quiz"><span class="wpcf7-quiz-label">9+8=?</span>&nbsp;<input type="text" name="the-quiz" size="40" class="wpcf7-form-control wpcf7-quiz" aria-required="true" /><input type="hidden" name="_wpcf7_quiz_answer_the-quiz" value="6a1b8ed819010f1a5616d2082cdf6cee" /></span></p>
+</p>
+<p><input type="submit" value="Lets Go!" class="wpcf7-form-control wpcf7-submit btn" /></p>
+</div>
+</div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+<!-- Le javascript
+================================================== -->	
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/themes/sosweet-v2/js/plugins.js'></script>
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/themes/sosweet-v2/js/scripts.js'></script>
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/sosweetcreative.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+
+</div> <!-- /page-content-->
+</div> <!-- closes the page-slide div required for offcanvas menu-->
+</body>
+</html>

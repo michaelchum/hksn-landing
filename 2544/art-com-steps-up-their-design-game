@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head>
+<!-- Title and Meta
+================================================== -->
+<meta charset="UTF-8">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif]-->
+
+<title>Art.Com steps up their design game | SoSweet! Creative</title>
+<meta name="author" content="Stephen Scaff of SoSweet! Creative">
+<meta name="description" content="SoSweet Creative is a husband-wife boutique web design operation based in Pittsburgh, PA. We build responsive, handcrafted websites that are modern, playful &amp; highly useable.">
+<meta name="keywords" content="So Sweet! Creative, SoSweet! Creative, so sweet creative, sosweet creative, stephen scaff, steve scaff, ligaya scaff, liggie scaff, scaff, responsive web design pittsburgh, pittsburgh responsive web design, responsive web design, mobile-first web design">
+ 
+
+<!-- Facebook Open Graph Meta
+================================================== -->
+<meta property="og:title" content="Art.Com steps up their design game | SoSweet! Creative"/>
+<meta property="og:url" content="http://sosweetcreative.com/2544/art-com-steps-up-their-design-game"/>
+<meta property="og:site_name" content="SoSweet! Creative"/>
+<meta property="og:description" content="SoSweet! Creative - a botique web design compny in Pittsburgh that builds responsive sites that are modern, playful and highly useable.">
+<meta property="og:image" content="http://sosweetcreative.com/wp-content/uploads/blogimg-art-com-main.jpg"/>
+
+<!--Twitter Meta
+================================================== -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@sosweetcreative"/>
+<meta name="twitter:creator" content="@sosweetcreative"/>
+<meta name="twitter:title" content="Art.Com steps up their design game | SoSweet! Creative">
+<meta property="og:description" content="SoSweet! Creative - a botique web design compny in Pittsburgh that builds responsive sites that are modern, playful and highly useable.">
+<meta name="twitter:image" content="http://sosweetcreative.com/wp-content/uploads/blogimg-art-com-main.jpg"/>
+
+<!-- Mobile
+================================================== -->
+<meta name="viewport" content="width=device-width, initial-scale = 1, maximum-scale=1, user-scalable=no" />				
+
+<!-- Fav and icons
+================================================== -->	
+<link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-precomposed.png">
+
+<!-- Feed
+================================================== -->	
+<link rel="alternate" type="application/rss+xml" title="SoSweet! Creative Feed" href="http://sosweetcreative.com/feed/">
+
+<!-- CSS & Js
+================================================== -->
+<link rel="stylesheet" href="http://sosweetcreative.com/wp-content/themes/sosweet-v2/style.css">
+<link rel="stylesheet" href="http://sosweetcreative.com/wp-content/themes/sosweet-v2/css/fonts.css">
+<link rel="stylesheet" href="http://sosweetcreative.com/wp-content/plugins/contact-form-7/includes/css/styles.css">
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/themes/sosweet-v2/js/jquery.js'></script>
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/themes/sosweet-v2/js/modernizr.js'></script>
+	<link rel="canonical" href="http://sosweetcreative.com/2544/art-com-steps-up-their-design-game">
+
+<script>
+//Fade in page all sexy like
+$('body').addClass('kf-fade-in-2');
+setTimeout(function(){
+  $("body").removeClass("kf-fade-in-2");
+  $("*").removeClass("kf-fade-in-3-1");
+},2100);
+</script>
+
+<!-- Google Analytics
+================================================== -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(["_setAccount", "UA-27609831-1"]);
+  _gaq.push(["_setDomainName", "sosweetcreative.com"]);
+  _gaq.push(["_trackPageview"]);
+
+  (function() {
+    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+
+<body id="top" class="single single-post postid-2544 single-format-standard art-com-steps-up-their-design-game discover love kf-fade-in-2">
+
+<!-- Mobile Nav Drawer - yes, yes, it could be part of main nav.
+================================================== -->
+<div class="mobilenav mobilenav-right">
+	<ul>
+	   <li><a href="/">Home</a></li>
+	   <li><a href="/#sect-about">About</a></li>
+	   <li><a href="/#sect-portfolio">Portfolio</a></li>
+	   <li><a class="js-contact-us" href="#">Contact</a></li>
+	   <li><a href="/blog">Blog</a></li>
+	</ul>
+</div>
+
+<!-- Site Overlay: Click anywhere to close-->
+<div class="site-overlay"></div>
+
+<!-- Slides entire page over for mobile nav drawer -->
+<div id="content-slide">
+
+<!-- Mobile Nav Button -->      
+<div class="menu-btn">
+<!--<span aria-hidden="true" class="icon-menu"></span>-->
+ <p>Menu</p>
+ <span class="opened"></span>
+</div>
+
+<!-- Header
+================================================== -->
+<header class="mast">
+  <div class="row g-full">
+<!-- Logo -->
+  	<h1 id="logo"><a href="/#top">SoSweet! Creative</a></h1>
+
+<!-- Main Nav-->
+    <nav role="navigation">
+  	  <ul>
+<li><a href="http://sosweetcreative.com/#top">Home</a></li>
+<li><a href="http://sosweetcreative.com/#sect-about">About</a></li>
+<li><a href="http://sosweetcreative.com/#sect-portfolio">Portfolio</a></li>
+<li class="js-contact-us"><a href="#">Contact</a></li>
+<li><a href="http://sosweetcreative.com/blog">Blog</a></li>
+</ul>
+</nav>
+  </div>
+</header>
+
+<!-- Hero Sect - Blog
+================================================== -->	
+<section class="sect-hero v-center sect-dark"> 
+  <div>
+   <div class="row g-full center-all">
+     <span aria-hidden="true" class="icon-heart"></span>
+  		<h1>The Sweetener</h1>
+  		<p class="biggest">The work we do <span aria-hidden="true" class="icon-ampersand"></span> stuff we love</p>	
+   </div>
+ </div>
+</section>
+
+<!-- Bar - Blog Nav + Cats
+================================================== -->	
+<section class="bar-blog-cats">
+  <div class="row g-full"> 
+    
+    <!--Cats Drop Down-->
+    <div class="left">
+      <nav>
+    	<a href="/blog"><span aria-hidden="true" class="icon icon-grid-2"></span></a>
+      <a href="http://sosweetcreative.com/2510/botanical-wonderland" rel="prev"><span aria-hidden="true" class="icon icon-arrow-left"></span></a> 
+      <a href="http://sosweetcreative.com/2613/font-face-and-base64-data-uri" rel="next"><span aria-hidden="true" class="icon icon-arrow-right"></span></a> 
+      </nav>  
+    </div>  
+    
+    <!--Cats Drop Down-->
+    <div class="right">
+      <div class="js-dropdown-cats wrapper-dropdown" tabindex="1">Categories
+      	<ul class="dropdown">
+      		<li><a href="http://sosweetcreative.com/category/work"><span aria-hidden="true" class="icon icon-mouse"></span> Work</a></li>
+      		<li><a href="http://sosweetcreative.com/category/play"><span aria-hidden="true" class="icon icon-paper-plane"></span> Play</a></li>
+      		<li><a href="http://sosweetcreative.com/category/love"><span aria-hidden="true" class="icon icon-heart"></span> Love</a></li>
+      		<li><a href="http://sosweetcreative.com/category/discover/"><span aria-hidden="true" class="icon icon-rocket"></span> Discover</a> </li>
+      	</ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Main
+================================================== -->
+<main role="main" class="post-single" role="main">
+  <div class="row">
+    <div class="g-8 cols centered">	
+      
+<!-- Article Begin
+================================================== -->
+    <article class="post-2544 post type-post status-publish format-standard hentry category-discover category-love tag-art tag-art-com tag-artists" id="post-2544">
+
+
+<!-- Post Header
+================================================== -->        
+    <header class="center-all">
+      <small class="preheader text-center">August 21, 2013</small>
+      <hr class="sep-date"/>
+    
+      <h1 class="post-title">Art.Com steps up their design game</h1>
+      <ul class="post-meta">
+        <li><span class="post-meta-byline">Written by <a href="http://sosweetcreative.com/author/liggie" title="Posts by Liggie" rel="author">Liggie</a> and Posted in: <a href="http://sosweetcreative.com/category/discover" title="View all posts in Discover">Discover</a> | <a href="http://sosweetcreative.com/category/love" title="View all posts in Love">Love</a></span></li>
+      </ul>
+    </header>
+
+<!-- Post Content
+================================================== -->        
+    <div class="post-content">
+      <img alt="blogimg-art-com-main" src="http://sosweetcreative.com/wp-content/uploads/blogimg-art-com-main.jpg" width="800" height="500" />
+<p>Last year, we noticed <a href="http://art.com">Art.Com</a> had a brand new bag. Their revamped web presence showed off fresh UI design and engaging features. Rather than simply browse endlessly through the artwork, you can now access <a href="http://www.art.com/me/Karen-Kimmel/">curated collections</a>, <a href="http://www.art.com/community/">social elements</a> and <a href="http://www.art.com/~/design-inspiration/">design inspiration</a>. While the website always had a huge collection of traditional art, we were pleasantly surprised to find more alternative and pop culture-related works. We spent some time exploring the site and, of course, came back with a few favorites.</p>
+<figure class="wp-caption aligncenter"><a href="http://www.art.com/products/p16271439895-sa-i6977408/jane-kim-white-lipped-peccary.htm?sorig=cat&amp;sorigid=0&amp;dimvals=5716449&amp;ui=de7437dd82bf4ae4b82f849c794c0866"><img alt="WhiteLipped" src="http://sosweetcreative.com/wp-content/uploads/wildboards.jpg" width="800" height="600" /></a><figcaption class="wp-caption-text">// <a href="http://www.art.com/asp/sp.asp?frameSku=9344683_4986478-1361998&amp;ui=DE7437DD82BF4AE4B82F849C794C0866">White Lipped Peccary</a> by Jane Kim//</figcaption></figure>
+<figure class="wp-caption aligncenter"><img alt="scoutcrop" src="http://sosweetcreative.com/wp-content/uploads/scoutcrop.jpg" width="800" height="600" /><figcaption class="wp-caption-text">// <a href="http://www.art.com/products/p13375452552-sa-i6454387/richard-phillips-scout-crop.htm">Scout-Crop</a> by Richard Phillips //</figcaption></figure>
+<figure class="wp-caption aligncenter"><img alt="wildroses" src="http://sosweetcreative.com/wp-content/uploads/wildroses.jpg" width="800" height="600" /><figcaption class="wp-caption-text">// <a href="http://www.art.com/asp/sp.asp?frameSku=9344684_4986654-3715618&amp;ui=DE7437DD82BF4AE4B82F849C794C0866">Wild Roses</a> by Jane Kim //</figcaption></figure>
+<figure class="wp-caption aligncenter"><img alt="" src="http://sosweetcreative.com/wp-content/uploads/sanfranabstract.jpg" width="777" height="500" /><figcaption class="wp-caption-text">// <a href="http://www.art.com/products/p13585528649-sa-i6460029/hero-design-san-francisco.htm?sorig=cat&amp;sorigid=0&amp;dimvals=207231&amp;ui=de7437dd82bf4ae4b82f849c794c0866">San Francisco</a> by Hero Design // <a href="http://www.art.com/products/p13019970-sa-i2266804/ledent-abstract-0805.htm">Abstract 0805</a> by Ledent //</figcaption></figure>
+<p>If you have some downtime and need a jolt of art in your life or home, Art.Com is the ultimate treasure trove. For more of our art favorites check out our growing collection here: <a href="http://bit.ly/19vOQqK">http://bit.ly/19vOQqK</a></p>
+    </div>
+
+<!-- Post Footer
+================================================== -->
+    <section class="post-footer">
+             
+      <!--Socials-->
+	<div class="row g-full social-sect">
+          <h5>Share the Love:</h5> <a href="http://twitter.com/home?status=Art.Com steps up their design game+http://sosweetcreative.com/2544/art-com-steps-up-their-design-game"><span class="icon icon-twitter"></span></a>
+          <a target="_blank" href="http://www.facebook.com/share.php?u=http://sosweetcreative.com/2544/art-com-steps-up-their-design-game/&amp;title=Art.Com steps up their design game"<span class="icon icon-facebook"></span></a>
+	</div>
+
+    <!--author-->
+      <div class="row g-full post-footer-card">
+        <p class="post-footer-card-title">Written By</p>  
+        <img class="post-footer-card-avatar" src="http://sosweetcreative.com/images/ligaya-scaff-hs.jpg"/>
+        <div class="post-footer-card-info">
+          <h5 class="invert"><a href="http://sosweetcreative.com/author/liggie" title="Posts by Liggie" rel="author">Liggie</a></h5>
+          <p>Liggie is a Info Lit Librarian turned digital content creator. She loves girly blogs, anything made with kale and a hearty bowl of ramen.</p>
+          <a href="http://sosweetcreative.com/author/liggie ">View Posts→</a>         
+        </div>
+      </div>
+    </section>
+  </article>
+
+
+<!-- Show Comments
+================================================== -->	
+<a class="big js-expand-comments">Show Comments <span class="comments-count">0</span> <span class="icon-plus">+</span></a>
+
+<span class="js-show">	
+
+<!-- Comments
+================================================== -->	
+  <section class="sect-comments">
+    <div class="row g-full">
+      
+		<section id="respond">
+	<h3>Leave a Reply</h3>
+	<p class="cancel-comment-reply"><a rel="nofollow" id="cancel-comment-reply-link" href="/2544/art-com-steps-up-their-design-game#respond" style="display:none;">Click here to cancel reply.</a></p>
+		<form action="http://sosweetcreative.com/wp-comments-post.php" method="post" id="commentform">
+				<p>
+			<label for="author">Name (required)</label>
+			<input type="text" class="five" name="author" id="author" value="" size="22" tabindex="1" aria-required='true'>
+		</p>
+		<p>
+			<label for="email">Email (will not be published) (required)</label>
+			<input type="text" class="five" name="email" id="email" value="" size="22" tabindex="2" aria-required='true'>
+		</p>
+		<p>
+			<label for="url">Website</label>
+			<input type="text" class="five" name="url" id="url" value="" size="22" tabindex="3">
+		</p>
+				<p>
+			<label for="comment">Comment</label>
+			<textarea name="comment" id="comment" tabindex="4"></textarea>
+		</p>
+		<p><input name="submit" class="small radius button btn btn-large btn-alpha" type="submit" id="submit" tabindex="5" value="Submit Comment"></p>
+		<input type='hidden' name='comment_post_ID' value='2544' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+		<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="8118901af2" /></p>	</form>
+	</section>
+    </div>
+  </section>
+
+
+
+  </div>
+</div>
+</span>
+
+<!-- Blog - Related Posts
+================================================== -->	
+<section class="sect-relatedposts sect-content">
+	<div class="row g-full">
+		<h3>More Posts</h3>
+			<br/>
+	</div>
+	
+	<div class="row">
+
+  
+    <div class="g-4 cols">
+      <a class="invert" href="http://sosweetcreative.com/3075/project-pitch-the-experts-lp">
+      <img class="fade-img" src="http://sosweetcreative.com/wp-content/uploads/blogimg-nhs-pitchlp.jpg"/>  
+      <h5 class="nomargin">Tiny Project: Pitch The Experts LP</h5>  
+      </a>  
+    </div>
+      
+    <div class="g-4 cols">
+      <a class="invert" href="http://sosweetcreative.com/3010/custom-social-share-icons-in-wordpress">
+      <img class="fade-img" src="http://sosweetcreative.com/wp-content/uploads/blogimg-customwpsocials.jpg"/>  
+      <h5 class="nomargin">Custom Social Share Icons in WordPress</h5>  
+      </a>  
+    </div>
+      
+    <div class="g-4 cols">
+      <a class="invert" href="http://sosweetcreative.com/2880/chicken-dinner-a-jquery-plugin-to-randomly-reload-images">
+      <img class="fade-img" src="http://sosweetcreative.com/wp-content/uploads/blogimg-chickendinnerjs.jpg"/>  
+      <h5 class="nomargin">Chicken Dinner: A Jquery Plugin to Randomly Reload Images</h5>  
+      </a>  
+    </div>
+      
+  </div>  
+</section>
+
+
+</main>
+	
+<!-- Footer
+================================================== -->	
+<footer class="sect-content">
+  <div class="row">
+  	<div class="g-6 cols">	
+  		<h4>SoSweet! Creative</h4>
+   		<p class="f-block">
+   		  hello@SoSweetCreative.com <br/>
+   		 	Tel: 412.506.7311 <br/><br/>
+  		  <a class="js-contact-us secondary" href="javascript:void(0)" title="Contact SoSweet!">Hit Us Up <span aria-hidden="true" class="icon-arrow-right"></span></a>
+  		</p>	
+   		
+   		<p class="f-block">
+   		 	65 Schley Ave <br/>
+   		 	Pittsburgh, PA 15205
+   		</p>
+    </div>
+   	
+   	<div class="g-5 cols">
+   		<h4>Social Stuffs</h4>
+      <p>Yep, yep, yep. We do that social thing</p>
+        <ul class="social-list">
+	 				<li><a href="http://twitter.com/sosweetcreative"><span aria-hidden="true" class="icon-twitter"></span></a></li>
+	 				<li><a href="http://facebook.com/sosweetcreative"><span aria-hidden="true" class="icon-facebook"></span></a></li>
+          <li><a href="http://dribbble.com/sosweetcreative"><span aria-hidden="true" class="icon-dribbble"></span></a></li>
+	 				<li><a href="http://pinterest.com/sosweetcreative"><span aria-hidden="true" class="icon-pinterest"></span></a></li>
+	 				<li><a href="http://instagram.com/sosweetcreative"><span aria-hidden="true" class="icon-instagram"></span></a></li>
+	 				<!--<li><a href="https://plus.google.com/118092213163574488102"><span aria-hidden="true" class="icon-google-plus-2"></span></                                                       a></li>-->
+	 				<li><a href="mailto:hello@sosweetcreative.com"><span aria-hidden="true" class="icon-mail-2"></span></a></li>
+   		 	</ul>
+   	</div>	
+  </div>
+  	
+  <section id="copyright-section">    
+  	<div class="row g-full center-all">
+      <hr/>		
+  	  <p>
+    	 Built with Love in Pittsburgh<br/>
+    	   	© 2014 SoSweet!</p>
+  		</p>
+    </div>
+  	</div>
+  </section>
+</footer>
+  
+
+<!-- Scroll To Top
+================================================== -->	
+<a class="scroll_to_top" href="#"><span aria-hidden="true" class="icon-arrow-up-2"><br/>TOP</span></a>
+
+<!-- Contact Slide
+================================================== -->
+<div id="js-slide-contact">
+  <section class="sect-contact sect-banner sect-dark">
+    <div class="row g-full center-all">
+	    <h2>Let's Make Contact</h2>
+	    <p class="big">Ready to start your monocle dropping project?</p>
+
+      <ul class="social-list">
+        <li><a href="http://twitter.com/sosweetcreative"><span aria-hidden="true" class="icon-twitter"></span></a></li>
+        <li><a href="http://facebook.com/sosweetcreative"><span aria-hidden="true" class="icon-facebook"></span></a></li>
+        <li><a href="http://dribbble.com/sosweetcreative"><span aria-hidden="true" class="icon-dribbble"></span></a></li>
+        <li><a href="http://pinterest.com/sosweetcreative"><span aria-hidden="true" class="icon-pinterest"></span></a></li>
+        <li><a href="http://instagram.com/sosweetcreative"><span aria-hidden="true" class="icon-instagram"></span></a></li>
+      </ul>
+    </div>
+  </section>
+
+<a href="#" class="btn btn-alpha js-back" id="totop">Back</a>
+  
+  <!-- contact-info-->	 
+  <section class="sect-contact-info sect-intro">	    
+<div class="row">    
+<div class="g-10 cols center-all">
+	    <h3 class="bigger">Build something awesome with us!</h3>
+	    <p><span class="pink">SoSweet! Creative</span> is located at <span class="color-delta">65 Schley Ave.</span> in sunny <a class="blue" href="http://youtu.be/b9gypvoDNrM" target="_blank">Pittsburgh, PA 15205</a>. Our phone number is <span class="color-delta">412-506-7311</span> and you can reach us with the form below or by emailing directly to <a href="">hello@sosweetcreative.com</a>
+	    </p>
+	  </div>
+</div>
+<br/>
+<!-- form-section -->	
+<div id="contact-form" class="white-bg">
+    <div class="wpcf7" id="wpcf7-f1720-p2544-o1"><form action="/2544/art-com-steps-up-their-design-game#wpcf7-f1720-p2544-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1720" />
+<input type="hidden" name="_wpcf7_version" value="3.5.2" />
+<input type="hidden" name="_wpcf7_locale" value="" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1720-p2544-o1" />
+<input type="hidden" name="_wpnonce" value="9ad2476dc0" />
+</div>
+<div class="row">
+<div class="g-10 cols centered">
+<div class="row">
+<div class="g-6 cols">
+<p><span class="wpcf7-form-control-wrap the-name"><input type="text" name="the-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required contacttext" aria-required="true" placeholder="Name" /></span></p>
+<p><span class="wpcf7-form-control-wrap the-companyname"><input type="text" name="the-companyname" value="" size="40" class="wpcf7-form-control wpcf7-text contacttext" placeholder="Company Name" /></span></p>
+</div>
+<div class="g-6 cols">
+<p><span class="wpcf7-form-control-wrap the-email"><input type="email" name="the-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email contacttext" aria-required="true" placeholder="Email" /></span></p>
+<p><span class="wpcf7-form-control-wrap the-phone"><input type="text" name="the-phone" value="" size="40" class="wpcf7-form-control wpcf7-text contacttext" placeholder="Phone" /></span></p>
+</div>
+</div>
+<div class="row g-full">
+<p><span class="wpcf7-form-control-wrap the-message"><textarea name="the-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required contacttextarea" aria-required="true" placeholder="What&#039;s Shakin?"></textarea></span></p>
+<p><span class="wpcf7-form-control-wrap the-quiz"><span class="wpcf7-quiz-label">9+8=?</span>&nbsp;<input type="text" name="the-quiz" size="40" class="wpcf7-form-control wpcf7-quiz" aria-required="true" /><input type="hidden" name="_wpcf7_quiz_answer_the-quiz" value="6a1b8ed819010f1a5616d2082cdf6cee" /></span></p>
+</p>
+<p><input type="submit" value="Lets Go!" class="wpcf7-form-control wpcf7-submit btn" /></p>
+</div>
+</div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+<!-- Le javascript
+================================================== -->	
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/themes/sosweet-v2/js/plugins.js'></script>
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/themes/sosweet-v2/js/scripts.js'></script>
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/sosweetcreative.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sosweetcreative.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+
+</div> <!-- /page-content-->
+</div> <!-- closes the page-slide div required for offcanvas menu-->
+</body>
+</html>
