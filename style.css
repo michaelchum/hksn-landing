@@ -472,6 +472,7 @@ img.g-img-2 { float: left }
     .lg-g-block-8>li:nth-of-type(8n+1) { clear: both }
 }
 .right { float: right }
+.left { float: left }
 .text-left { text-align: left }
 .text-right { text-align: right }
 .text-center { text-align: center }
@@ -675,7 +676,7 @@ button.btn-clear:hover.btn-white:hover { border-color: #05101b;background:#05101
 .button.btn-clear:active,
 button.btn-clear:active { border-color: #3195b2;background:#3195b2;color:rgba(255,255,255,.75) }
 .current { background: #49afcd!important;display:inline-block }
-ul.btn-group { margin: 0 auto;padding:0 0 3.5em;display:table;white-space:nowrap }
+ul.btn-group { margin: 0 auto;padding:0 0 1em;display:table;white-space:nowrap }
 ul.btn-group li { display: inline-block;background:#05101b;padding:0;margin:0;white-space:nowrap;-webkit-transitio:background-color .5s ease-in-out;-moz-transition:background-color .5s ease-in-out;-ms-transition:background-color .5s ease-in-out;-o-transition:background-color .5s ease-in-out;transition:background-color .5s ease-in-out }
 ul.btn-group a { font-size: 88%;font-weight:600;color:#fff;text-align:center;display:block;margin:0 auto;padding:1em 1.5em .9em;letter-spacing:.2em;text-transform:uppercase;text-shadow:-1px 1px 0 rgba(0,0,0,.4) }
 @media (min-width:32em) { 
@@ -1282,7 +1283,7 @@ li.folio-item img:hover { position: relative;-webkit-animation:move-up 500ms eas
         border-radius: 0 4px 4px 0;
     }
 }
-.sect-contact { background: #19374b url(images/contactbg-nasa2.jpg) 50% 0 no-repeat;background-size:140%;border-bottom:7px solid #aaa }
+.sect-contact { background: #19374b url(execs/welcome.jpg) 50% 0 no-repeat;background-size:100%;border-bottom:7px solid #aaa }
 @media (min-width:54em) { 
     .sect-contact { background-size: 100% }
 }
@@ -1540,3 +1541,52 @@ body.error404 .v-center { padding: 10% 0 }
 body.error404 footer { display: none }
 p.smaller { font-size: 93%: }
 img.fullwidth { width: 100%; }
+
+/* pure-button margin */
+.pure-button {
+    margin: 0 0 0 0;
+}
+
+/* Button sizes */
+.button-xsmall {
+    font-size: 70%;
+}
+
+.button-small {
+    font-size: 85%;
+}
+
+.button-large {
+    font-size: 110%;
+}
+
+.button-xlarge {
+    font-size: 125%;
+}
+
+/* Button colors */
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    margin: 0 0 0 0;
+}
+
+.button-success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.button-error {
+    background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.button-warning {
+    background: rgb(223, 117, 20); /* this is an orange */
+}
+
+.button-secondary {
+    background: rgb(66, 184, 221); /* this is a light blue */
+}
