@@ -1283,7 +1283,7 @@ li.folio-item img:hover { position: relative;-webkit-animation:move-up 500ms eas
         border-radius: 0 4px 4px 0;
     }
 }
-.sect-contact { background: #19374b url(execs/sing.jpg) 50% 0 no-repeat;background-size:100%;border-bottom:7px solid #aaa }
+.sect-contact { background: #19374b url(execs/welcome.jpg) 50% 0 no-repeat;background-size:100%;border-bottom:7px solid #aaa }
 @media (min-width:54em) { 
     .sect-contact { background-size: 100% }
 }
