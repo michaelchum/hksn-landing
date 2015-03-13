@@ -261,6 +261,12 @@ blockquote { font-family: proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-ser
         width: 85%;
     }
 }
+.row-margin {
+    margin: 1em 1em !important;
+}
+#header-margin {
+    margin: 1.5em 1.5em;
+}
 .xl .row { max-width: 95%;width:95% }
 .xxl .row { max-width: 98%;width:98% }
 .row.xxxl { width: 100%;max-width:100% }
@@ -1203,7 +1209,7 @@ ul.social-list li a { padding: 0 1em 0 0!important }
 section * { z-index: 3 }
 .sect-banner { position: relative;-webkit-background-size:cover;-ms-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;color:#fff;overflow:hidden;padding:15% 0 }
 @media (min-width:54em) { 
-    .sect-banner { padding: 7% 0 }
+    .sect-banner { padding: 25% 0 }
 }
 .sect-banner h1,
 .sect-banner h2,
@@ -1270,7 +1276,7 @@ li.folio-item a:hover .folio-item-hover p,
 li.folio-item img:hover { position: relative;-webkit-animation:move-up 500ms ease;-moz-animation:move-up 500ms ease;-o-animation:move-up 500ms ease;animation:move-up 500ms ease }
 #sect-posts h4 { margin: .25em 0 1em }
 .absolute { position: absolute!important }
-#js-slide-contact { position: fixed;height:100%;left:100%;top:0;width:100%;z-index:99999;background:#eee }
+#js-slide-contact { position: fixed;height:250%;left:100%;top:0;width:100%;z-index:99999;background:#eee }
 #js-slide-contact .back:hover { background-position: left bottom }
 #js-slide-contact .btn-alpha.js-back { font-size: 1em;top:-.3em;left:0;position:absolute;border-radius:0;padding:1em }
 @media (min-width:54em) { 
@@ -1283,7 +1289,7 @@ li.folio-item img:hover { position: relative;-webkit-animation:move-up 500ms eas
         border-radius: 0 4px 4px 0;
     }
 }
-.sect-contact { background: #19374b url(execs/welcome.jpg) 50% 0 no-repeat;background-size:100%;border-bottom:7px solid #aaa }
+.sect-contact { background: #19374b url(execs/sing.jpg) 50% 0 no-repeat;background-size:100%;border-bottom:7px solid #aaa }
 @media (min-width:54em) { 
     .sect-contact { background-size: 100% }
 }
