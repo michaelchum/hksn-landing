@@ -1596,3 +1596,7 @@ img.fullwidth { width: 100%; }
 .button-secondary {
     background: rgb(66, 184, 221); /* this is a light blue */
 }
+
+#sponsors_desc {
+    font-size: 115%;
+}
